@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LanguageLearningClient
+comment1.params=
+comment1.target=LanguageLearningClient()
+comment2.params=message
+comment2.target=void\ sendMessage(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ receiveMessage()
+comment4.params=
+comment4.target=void\ closeConnection()
+numComments=5

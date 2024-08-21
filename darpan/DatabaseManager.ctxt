@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DatabaseManager
+comment1.params=
+comment1.target=java.sql.Connection\ getConnection()
+comment2.params=columnName\ value\ userId
+comment2.target=void\ updateCheckbox(java.lang.String,\ boolean,\ int)
+comment3.params=enteredUsername\ enteredPassword
+comment3.target=boolean\ checkLogin(java.lang.String,\ java.lang.String)
+comment4.params=usrname
+comment4.target=java.lang.String\ updateLastLogin(java.lang.String)
+comment5.params=usrname
+comment5.target=boolean\ isWithinTwoMinutes(java.lang.String)
+comment6.params=usrname
+comment6.target=int\ getUserId(java.lang.String)
+comment7.params=userId
+comment7.target=java.lang.String\ getLastLoginUpdate(int)
+comment8.params=usrid\ loginTime
+comment8.target=void\ insertSessionRecord(int,\ java.lang.String)
+comment9.params=
+comment9.target=void\ closeConnection()
+numComments=10
